@@ -20,5 +20,4 @@ public class Mutter implements Serializable{
 		return text;
 	}
 
-
 }
